@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "age": 30,
+      "premiumMember": true
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "age": 25,
+      "premiumMember": false
+    },
+    {
+      "id": 3,
+      "name": "Alex Johnson",
+      "email": "alex@example.com",
+      "age": 28,
+      "premiumMember": true
+    },
+    {
+      "name": "Sachin",
+      "email": "sachin@example.com",
+      "age": 32,
+      "premiumMember": false,
+      "id": 4
+    },
+    {
+      "name": "Midhun",
+      "email": "midhunreal1@gmail.com",
+      "age": 25,
+      "premiumMember": true,
+      "id": 5
+    }
+  ]
+}
